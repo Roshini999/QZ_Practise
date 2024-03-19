@@ -12,20 +12,10 @@ public class Addition {
 		byte e = 5;
 		byte f = 6;
 
-		int result1 = a + b + c + d + e + f;
+		int result = a + b + c + d + e + f;
 
 
-		byte g = 7;
-		byte h = 8;
-		byte i = 9;
-		byte j = 10;
-		byte k = 11;
-		byte l = 12;
-
-		int result2 = g + h + i + j + k + l;
-
-		System.out.println(result1);
-		System.out.println(result2);
-
+		System.out.println(result);
+		
 	}
 }
